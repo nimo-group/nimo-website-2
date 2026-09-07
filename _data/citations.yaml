@@ -1,5 +1,64 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/mrm.70514
+  title: "Brain Clearance of Contrast Agent in Intravenous\n                    <scp>DCE</scp>\n\
+    \                    \u2010\n                    <scp>MRI</scp>\n            \
+    \        Is Measurable and Cannot Be Explained by Clearance Across the\n     \
+    \               <scp>BBB</scp>\n                    Alone"
+  authors:
+  - "Martin Koz\xE1r"
+  - "Ioana\u2010Emilia Mosneag"
+  - "Sarah Al\u2010Bachari"
+  - Igor Chernyavsky
+  - Geoff J. M. Parker
+  - "Herv\xE9 Boutin"
+  - Laura M. Parkes
+  - Ingo Schiessl
+  - Ben R. Dickie
+  publisher: Magnetic Resonance in Medicine
+  date: '2026-07-18'
+  link: https://doi.org/hcb46h
+  orcid: 0000-0001-5018-2111
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.05.29.728495
+  title: Voxel-wise tracer kinetic model selection for DCE-MRI measurements of blood-brain
+    barrier leakage
+  authors:
+  - Olivia A. Jones
+  - Ben R. Dickie
+  - Michael Berks
+  - Sarah Al-Bachari
+  - Hedley C. A. Emsley
+  - Laura M. Parkes
+  publisher: openRxiv
+  date: '2026-06-02'
+  link: https://doi.org/hb6vv6
+  orcid: 0000-0001-5018-2111
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1161/STROKEAHA.125.054941
+  title: Timing-Dependent Cleavage of Interleukin-1 Receptor Antagonist by Alteplase
+    Impairs Neuroprotection in Ischemic Stroke
+  authors:
+  - Ioana-Emilia Mosneag
+  - Marina Rubio
+  - "Elo\xEFse Lemarchand"
+  - Yolanda Ohene
+  - Ben R. Dickie
+  - Rachel Jones
+  - Graham Coutts
+  - Eleanor Ritchie
+  - Daniela Martins Borges
+  - Denis Vivien
+  - Craig J. Smith
+  - Stuart M. Allan
+  publisher: Stroke
+  date: '2026-06-01'
+  link: https://doi.org/hbtf29
+  orcid: 0000-0001-5018-2111
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1177/0271678X251318923
   title: "Early metabolic changes in the brain of Alzheimer\u2019s disease rats are\
     \ driven by GLAST+ cells"
@@ -165,7 +224,7 @@
   - Joanne E Konkel
   - "Dominik R\xFCckerl"
   - Judith E Allen
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-12-19'
   link: https://doi.org/gsxv6x
   orcid: 0000-0001-5018-2111
@@ -240,8 +299,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2021.01.12.426392
-  title: "<i>In vivo</i>multi-parametric manganese-enhanced MRI for detecting senile\
-    \ plaques in rodent models of Alzheimer\u2019s disease"
+  title: "<i>In vivo</i>\n                  multi-parametric manganese-enhanced MRI\
+    \ for detecting senile plaques in rodent models of Alzheimer\u2019s disease"
   authors:
   - Eugene Kim
   - Davide Di Censo
@@ -254,7 +313,7 @@
   - Steven CR Williams
   - Richard Killick
   - Diana Cash
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-01-14'
   link: https://doi.org/g9q2jp
   orcid: 0000-0001-5018-2111
@@ -352,18 +411,33 @@
   orcid: 0000-0001-5018-2111
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2024.07.09.602800
-  title: Longitudinal Multi-Tensor Analysis of Neocortical Microstructure in an Animal
-    Model of Cortical Dysplasia
+- id: doi:10.1038/s41598-026-51531-w
+  title: Multimodal age-dependent diffusion-MRI analysis of the neocortex in a rat
+    model of cortical dysplasia
   authors:
-  - "Paulina J. Villasen\xF5r"
+  - "Paulina J. Villase\xF1or"
   - "Hiram Luna-Mungu\xEDa"
   - Alonso Ramirez-Manzanares
   - Ricardo Coronado-Leija
   - Luis Concha
-  publisher: Cold Spring Harbor Laboratory
+  publisher: Scientific Reports
+  date: '2026-06-05'
+  link: https://doi.org/hb6vv7
+  orcid: 0009-0001-7928-9390
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.07.09.602800
+  title: Multimodal longitudinal diffusion-MRI analysis of the neocortex in a rat
+    model of cortical dysplasia
+  authors:
+  - "Paulina J. Villase\xF1or"
+  - "Hiram Luna-Mungu\xEDa"
+  - Alonso Ramirez-Manzanares
+  - Ricardo Coronado-Leija
+  - Luis Concha
+  publisher: openRxiv
   date: '2024-07-15'
-  link: https://doi.org/10.1101/2024.07.09.602800
+  link: https://doi.org/g9q8gc
   orcid: 0009-0001-7928-9390
   plugin: orcid.py
   file: orcid.yaml
@@ -408,6 +482,49 @@
   orcid: 0009-0001-7928-9390
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1088/2057-1976/ae7116
+  title: 'The stability of diffusion measurements with simultaneous multi-slice imaging:
+    a multi-scanner, multi-site, test-retest study using the NIST/QIBA CaliberMRI
+    diffusion phantom'
+  authors:
+  - Matthew Marzetti
+  - Hamied A Haroon
+  - William Lloyd
+  - Todor Karaulanov
+  - Yingfan Wang
+  - Laura Parkes
+  - Caroline Lea-Carnall
+  - Irvin Teh
+  - "Gr\xE1inne Bourke"
+  - Ryckie G Wade
+  publisher: Biomedical Physics &amp; Engineering Express
+  date: '2026-06-01'
+  link: https://doi.org/hb5gfr
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2025.12.09.25341878
+  title: Mapping myelin alterations in Neurofibromatosis Type 1 using Magnetization
+    Transfer and T1W/T2W Ratio Imaging
+  authors:
+  - Varun Arunachalam Chandran
+  - Caroline Lea-Carnall
+  - Yuping Yang
+  - Anna Wild
+  - Matthew McCowen
+  - Grace Vassallo
+  - Jonathan Green
+  - Hamied Haroon
+  - William Lloyd
+  - Stavros Stivaros
+  - Nils Muhlert
+  - Shruti Garg
+  publisher: openRxiv
+  date: '2025-12-11'
+  link: https://doi.org/hbfm2x
+  orcid: 0000-0001-6814-3356
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ynirp.2025.100258
   title: Non-invasive brain stimulation reorganises effective connectivity during
     a working memory task in individuals with Neurofibromatosis Type 1
@@ -420,7 +537,7 @@
   - Nelson J. Trujillo-Barreto
   publisher: 'NeuroImage: Reports'
   date: '2025-06-01'
-  link: https://doi.org/10.1016/j.ynirp.2025.100258
+  link: https://doi.org/g9q8dw
   orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
@@ -432,12 +549,12 @@
   - Caroline A. Lea-Carnall
   publisher: Physical Review Research
   date: '2025-05-09'
-  link: https://doi.org/10.1103/physrevresearch.7.023128
+  link: https://doi.org/g9q8dx
   orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.04.30.651283
-  title: Frequency-Dependent Neurostimulation in Whole Brain Network models
+  title: Selective brain network stimulation by frequency entrainment
   authors:
   - "M\xF3nica Otero"
   - Elida Poo
@@ -446,10 +563,11 @@
   - Caroline Lea-Carnall
   - Alejandro Weinstein
   - Pamela Guevara
+  - Jesus Cortes
   - Pavel Prado
   - Joana Cabral
   - Wael El-Deredy
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-05-04'
   link: https://doi.org/g9q773
   orcid: 0000-0001-6814-3356
@@ -463,37 +581,37 @@
   - Caroline Lea-Carnall
   - Nick Shryane
   - Asri Maharani
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-16'
   link: https://doi.org/g9q774
   orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.04.10.648183
-  title: Fronto-parietal effective connectivity during working memory in Neurofibromatosis
-    Type 1 adolescents and neurotypical controls
+  title: 'Disrupted Frontoparietal Dynamics in Neurofibromatosis Type 1: Reduced Sensitivity
+    and Atypical Modulation During Working Memory'
   authors:
-  - "Marta Czime Litwi\u0144czuk"
+  - "Marta C Litwi\u0144czuk"
   - Shruti Garg
-  - Jonathan Green
   - Caroline Lea-Carnall
   - Nelson J Trujillo-Barreto
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-14'
   link: https://doi.org/g9q775
   orcid: 0000-0001-6814-3356
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2025.04.10.648210
-  title: Functional connectivity reveals increased network segregation and sensorimotor
-    processing during working memory in adolescents with Neurofibromatosis Type 1
+  title: Working memory impairments in Neurofibromatosis Type 1 are explained by disrupted
+    functional connectivity and network controllability
   authors:
   - "Marta Czime Litwi\u0144czuk"
   - Nelson J Trujillo-Barreto
   - Jeyoung Jung
+  - Yuping Yang
   - Shruti Garg
   - Caroline Lea-Carnall
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-04-14'
   link: https://doi.org/g9q776
   orcid: 0000-0001-6814-3356
@@ -509,7 +627,7 @@
   - Grace Vassallo
   - Nils Muhlert
   - Shruti Garg
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-03-30'
   link: https://doi.org/g9q778
   orcid: 0000-0001-6814-3356
@@ -577,7 +695,7 @@
   - Jonathan Green
   - Caroline Lea-Carnall
   - Nelson J Trujillo-Barreto
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-10-18'
   link: https://doi.org/g9q78d
   orcid: 0000-0001-6814-3356
@@ -591,7 +709,7 @@
   - Asri Maharani
   - Caroline Lea-Carnall
   - Nick Shryane
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-08-20'
   link: https://doi.org/g9q78f
   orcid: 0000-0001-6814-3356
@@ -603,7 +721,7 @@
   authors:
   - Mojtaba Madadi Asl
   - Caroline A. Lea-Carnall
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-07-04'
   link: https://doi.org/g9q78g
   orcid: 0000-0001-6814-3356
@@ -619,7 +737,7 @@
   - Joana Cabral
   - Alejandro Weinstein
   - Wael El-Deredy
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-01-09'
   link: https://doi.org/g9q78h
   orcid: 0000-0001-6814-3356
@@ -676,7 +794,7 @@
   - Pavel Prado
   - "Mar\xEDa-Jos\xE9 Escobar"
   - Wael El-Deredy
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-09-11'
   link: https://doi.org/gsz2qf
   orcid: 0000-0001-6814-3356
@@ -691,7 +809,7 @@
   - Stephen R. Williams
   - Charlotte J. Stagg
   - Nelson J. Trujillo-Barreto
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-03-12'
   link: https://doi.org/gszv93
   orcid: 0000-0001-6814-3356
